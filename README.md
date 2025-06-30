@@ -1,1 +1,1 @@
-# week3-AI-toola-and-application
+# week3-AI-tools-and-application
